@@ -1,0 +1,1 @@
+G:\Windows Platform\Lap04\UWP015\UWP015.csproj;x86
